@@ -1,0 +1,1 @@
+let union: string | number;
